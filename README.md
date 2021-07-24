@@ -1,6 +1,6 @@
 <h1>Documentation for running code</h1>
 
-[Untitled spreadsheet - Sheet1.pdf](https://github.com/okymikhael/fastapi-hospital-restAPI/files/6872280/Untitled.spreadsheet.-.Sheet1.pdf)
+![0001](https://user-images.githubusercontent.com/22582712/126866213-c1cf3e14-603f-44a9-8d73-754e40acc454.jpg)
 
 First of all type `python -m pip install -r requirements.txt` in your terminal
 
