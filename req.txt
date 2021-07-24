@@ -1,6 +1,0 @@
-fastapi==0.67.0
-typing-extensions==3.10.0.0
-pydantic==1.8.2
-uvicorn==0.14.0
-SQLAlchemy==1.4.22
-alembic==1.6.5
