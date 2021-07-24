@@ -2,6 +2,7 @@
 
 ![0001](https://user-images.githubusercontent.com/22582712/126866213-c1cf3e14-603f-44a9-8d73-754e40acc454.jpg)
 
+
 First of all type `python -m pip install -r requirements.txt` in your terminal
 
 Using Migration
@@ -14,4 +15,5 @@ Using Migration
 Finally for running application type `uvicorn main:app --reload` in terminal
 
 Note:
-For API Documentation and testing you can access `{{host}}/docs` or alternative `{{host}}/redoc`
+- For API Documentation and testing you can access `{{host}}/docs` or alternative `{{host}}/redoc`
+- You can run it on docker
